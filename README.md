@@ -6,7 +6,8 @@ This all-in-one solution provides interactive tools for:
 - Budget management  
 - Seating arrangements  
 - Theme selection  
-- Digital invitations  
+- Digital invitations
+- Money gift tracking  
 
 🔗 **Live Demo:** [View Here](https://yourusername.github.io/wedding-planner)
 
@@ -41,6 +42,14 @@ This all-in-one solution provides interactive tools for:
 - **QR code generation** for easy sharing  
 - Mobile-responsive invitations  
 - RSVP tracking system  
+
+#### Money Gift Tracker  
+- Record cash gifts from wedding guests
+- Track amounts in KHR and USD
+- Guest relationship categorization
+- Total contribution calculations
+- Export gift reports for thank-you cards
+- Culture-specific: Designed for Cambodian wedding traditions
 
 ---
 
