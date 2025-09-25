@@ -17,7 +17,7 @@ This all-in-one solution provides interactive tools for:
 
 ### Core Functionality  
 
-#### 🧾 Smart Budget Planner  
+#### Smart Budget Planner  
 - Set total wedding budget  
 - Allocate funds across categories (venue, catering, decorations, etc.)  
 - Real-time cost estimation using **currency exchange API**  
