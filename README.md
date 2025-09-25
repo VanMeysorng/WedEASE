@@ -1,7 +1,5 @@
 # 💍 WedEase – Smart Wedding Planner
 
-![WedEase Banner](https://via.placeholder.com/800x200?text=WedEase+Smart+Wedding+Planner)
-
 ## Project Overview  
 **WedEase** is a comprehensive web-based wedding planning application that helps couples organize their special day with ease.  
 This all-in-one solution provides interactive tools for:  
@@ -54,7 +52,5 @@ This all-in-one solution provides interactive tools for:
 - **Storage:** Browser LocalStorage  
 - **APIs:** Currency Exchange API, Unsplash API (optional)  
 - **Libraries:** QRCode.js, html2canvas, jsPDF  
-
----
 
 
